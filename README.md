@@ -1,5 +1,5 @@
 ## Welcome to CABH Visualization
-[Visit CABH DASHBOARD](https://cabh-visualization.streamlit.app/)
+[Visit CABH DASHBOARD](https://cabh-dashboard.streamlit.app/)
 
 ### Contribution
 
